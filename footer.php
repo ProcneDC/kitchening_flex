@@ -4,5 +4,5 @@
 	<a href="#">servicios</a>
 	<a href="#">portfolio</a>
 	<a href="#">sucursales</a>
-	<a href="#">contacto</a>
+	<a href="contacto.php">contacto</a>
 </footer>

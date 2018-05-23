@@ -1,0 +1,5 @@
+{"pedidos":
+	[{"nombre":"Marcelo","apellido":"Garcia","mail":"mg@hotmail.com","telefono":"1589547812","direccion":"Medrano 780","mensaje":"Mayonesa y mostaza","pedido":["milanesa","pure"]},
+	 {"nombre":"Juana","apellido":"Gomez","mail":"jg@gmail.com","telefono":"44561238","direccion":"Angel Gallardo 1500","mensaje":"","pedido":["pizza"]}
+	]
+}
